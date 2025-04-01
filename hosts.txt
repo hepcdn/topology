@@ -1,1 +1,2 @@
 xrootd-se30-vanderbilt.sites.opensciencegrid.org:1095
+red-xfer1.unl.edu:1095
